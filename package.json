@@ -1,0 +1,23 @@
+{
+  "name": "runnerjumper",
+  "version": "1.0.0",
+  "description": "Simple endless runner game demo",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.4",
+    "phaser": "^2.6.2",
+    "typescript": "^2.1.5"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "runner",
+    "phaser"
+  ],
+  "author": "Andrei Sergienko",
+  "license": "MIT",
+
+}
